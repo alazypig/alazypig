@@ -8,8 +8,8 @@ Here is my email address: <a href="mailto:liufei1@mail.sdufe.edu.cn">Edward</a>
 
 <div align="center">
 	<br>
-	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/master/header.svg">
-		<img src="header.svg" width="800" height="400">
+	<a href="https://github.com/alazypig/alazypig/blob/master/logo.svg">
+		<img src="logo.svg" width="800" height="400">
 	</a>
 	<br>
 </div>
