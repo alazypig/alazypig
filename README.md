@@ -3,9 +3,6 @@
 🌱 I’m currently learning Algorithm.<br>
 🤔 I’m looking for books about Functional Programming, Higher-order Components and Algorithm.
 
-### Please contact me if you have any suggesstions.
-Here is my email address: <a href="mailto:liufei1@mail.sdufe.edu.cn">Edward</a>
-
 <div align="center">
 	<br>
 	<a href="https://github.com/alazypig/alazypig/blob/master/logo.svg">
