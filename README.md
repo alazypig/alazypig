@@ -11,7 +11,7 @@
 
 </span>
 
-<span style="width:61%;display:inline-block">
+<span style="width:50%;display:inline-block">
 
 ![Edward](logo.svg)
 
