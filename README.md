@@ -9,9 +9,9 @@
 	</a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alazypig&layout=compact)](https://github.com/alazypig/)
-
-![A lazy Pig's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=alazypig&show_icons=true&count_private=true&theme=gotham)
+<div style="display: flex; justify-content: center; align-items: center;">
+    ![A lazy Pig's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=alazypig&show_icons=true&count_private=true&theme=radical)
+</div>
 
 <!--
 **alazypig/alazypig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
