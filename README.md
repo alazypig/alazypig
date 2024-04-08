@@ -3,9 +3,9 @@
 🌱 I’m currently learning Algorithm.<br>
 🤔 I’m looking for books about Functional Programming, Higher-order Components and Algorithm.
 
-<div style="text-align:center">
+<div style="display:flex">
 
-<span style="width:39%;display:inline-block">
+<span style="width:48%;display:inline-block">
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs?username=alazypig&show_icons=true&count_private=true&theme=radical)
 
