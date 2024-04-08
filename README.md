@@ -10,7 +10,7 @@
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    ![A lazy Pig's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=alazypig&show_icons=true&count_private=true&theme=radical)
+    <img style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alazypig&show_icons=true&count_private=true&theme=radical"/>
 </div>
 
 <!--
