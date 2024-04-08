@@ -3,10 +3,21 @@
 🌱 I’m currently learning Algorithm.<br>
 🤔 I’m looking for books about Functional Programming, Higher-order Components and Algorithm.
 
-<center class="half">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alazypig&show_icons=true&count_private=true&theme=radical" width="300"/>
-    <img src="logo.svg" width="600" />
-</center>
+<div style="text-align:center">
+
+<span style="width:39%;display:inline-block">
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs?username=alazypig&show_icons=true&count_private=true&theme=radical)
+
+</span>
+
+<span style="width:61%;display:inline-block">
+
+![Edward](logo.svg)
+
+</span>
+
+</div>
 
 <!--
 **alazypig/alazypig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
