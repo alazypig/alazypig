@@ -3,12 +3,20 @@
 🌱 I’m currently learning Algorithm.<br>
 🤔 I’m looking for books about Functional Programming, Higher-order Components and Algorithm.
 
-<div align="center">
-	<br>
-	<a href="https://github.com/alazypig/alazypig/blob/master/logo.svg">
-		<img src="logo.svg" width="800" height="400">
-	</a>
-	<br>
+<div style="display:flex">
+
+<span style="width:48%;display:inline-block">
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs?username=alazypig&show_icons=true&count_private=true&theme=radical)
+
+</span>
+
+<span style="width:50%;display:inline-block">
+
+![Edward](logo.svg)
+
+</span>
+
 </div>
 
 <!--
