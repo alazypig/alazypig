@@ -1,3 +1,27 @@
+##
+
+<div style="display: flex; justify-content: center;align-items: center;">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=10px&pause=1000&color=E31FF7&center=true&vCenter=true&random=true&width=435&lines=%E9%A3%9F%E5%BE%97%E9%B9%B9%E9%AD%9A%E6%8A%B5%E5%BE%97%E6%B8%B4)](https://git.io/typing-svg)
+
+</div>
+
+<div style="flex-direction: row; display: flex; justify-content: center;align-items: center;">
+
+![Profile Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alazypig&theme=radical)
+
+</div>
+
+<div style="display: flex; justify-content: space-between;align-items: center;margin-top: 10px;">
+
+![leetcode](https://stats.justsong.cn/api/leetcode/?username=alazypig)
+
+![Most Language](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=html,css,javascript&&layout=compact)
+
+</div>
+
+![gold](https://github-profile-trophy.vercel.app/?username=alazypig)
+
 ## 🧑 Personal Information
 
 - **Name**: Edward
@@ -81,7 +105,3 @@
 - **LinkedIn**: [Your LinkedIn Profile] 🔗
 - **GitHub**: [Your GitHub Profile] 💻
 - **Photography Portfolio**: [Your Photography Portfolio Link] 📸 -->
-
-##
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alazypig&theme=radical)
