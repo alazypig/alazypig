@@ -17,6 +17,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=alazypig" />
 </p>
 
+<!--
+
 <details>
 <summary>🧑 Personal Information</summary>
 
@@ -115,7 +117,7 @@
 ### Photography Portfolio
 
 - **Description**: Collection of best photographs
-- **Link**: [Your Photography Portfolio Link] 📸 -->
+- **Link**: [Your Photography Portfolio Link] 📸 
 
 <details>
 <summary>🎯 Goals and Aspirations</summary>
@@ -126,6 +128,8 @@
 - **Future Opportunities**: Consider freelancing, joining startups, and exploring international work options 🌏
 
 </details>
+
+-->
 
 <!-- ## 📬 Contact Information
 
