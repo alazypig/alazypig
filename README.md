@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://stats.justsong.cn/api/leetcode/?username=alazypig" />
-  <img style="margin-bottom: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=html,css,javascript&&layout=compact" />
+  <img style="margin-bottom: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alazypig&hide=html,css,javascript&&layout=compact" />
 </p>
 
 <p align="center">
