@@ -13,9 +13,11 @@
   <img style="margin-bottom: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alazypig&hide=html,css,javascript&&layout=compact" />
 </p>
 
+<!--
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=alazypig" />
 </p>
+-->
 
 <!--
 
