@@ -1,5 +1,3 @@
-##
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=10px&pause=1000&color=E31FF7&center=true&vCenter=true&random=true&width=435&lines=%E9%A3%9F%E5%BE%97%E9%B9%B9%E9%AD%9A%E6%8A%B5%E5%BE%97%E6%B8%B4" />
 </p>
@@ -8,10 +6,12 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alazypig&theme=radical" />
 </p>
 
+<!--
 <p align="center">
   <img src="https://stats.justsong.cn/api/leetcode/?username=alazypig" />
   <img style="margin-bottom: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alazypig&hide=html,css,javascript&&layout=compact" />
 </p>
+-->
 
 <!--
 <p align="center">
